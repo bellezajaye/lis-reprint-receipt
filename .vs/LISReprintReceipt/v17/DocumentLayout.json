@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\ADMIN\\Documents\\LENDING\\lis-reprint-receipt\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E08FE499-74C8-446C-8448-FD5719B2D33F}|LISReprintReceipt\\LISReprintReceipt.csproj|c:\\users\\admin\\documents\\lending\\lis-reprint-receipt\\lisreprintreceipt\\windowforms\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E08FE499-74C8-446C-8448-FD5719B2D33F}|LISReprintReceipt\\LISReprintReceipt.csproj|solutionrelative:lisreprintreceipt\\windowforms\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E08FE499-74C8-446C-8448-FD5719B2D33F}|LISReprintReceipt\\LISReprintReceipt.csproj|c:\\users\\admin\\documents\\lending\\lis-reprint-receipt\\lisreprintreceipt\\mainwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E08FE499-74C8-446C-8448-FD5719B2D33F}|LISReprintReceipt\\LISReprintReceipt.csproj|solutionrelative:lisreprintreceipt\\mainwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E08FE499-74C8-446C-8448-FD5719B2D33F}|LISReprintReceipt\\LISReprintReceipt.csproj|C:\\Users\\ADMIN\\Documents\\LENDING\\lis-reprint-receipt\\lisreprintreceipt\\windowforms\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{E08FE499-74C8-446C-8448-FD5719B2D33F}|LISReprintReceipt\\LISReprintReceipt.csproj|solutionrelative:lisreprintreceipt\\windowforms\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E08FE499-74C8-446C-8448-FD5719B2D33F}|LISReprintReceipt\\LISReprintReceipt.csproj|c:\\users\\admin\\documents\\lending\\lis-reprint-receipt\\lisreprintreceipt\\windowforms\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E08FE499-74C8-446C-8448-FD5719B2D33F}|LISReprintReceipt\\LISReprintReceipt.csproj|solutionrelative:lisreprintreceipt\\windowforms\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E08FE499-74C8-446C-8448-FD5719B2D33F}|LISReprintReceipt\\LISReprintReceipt.csproj|C:\\Users\\ADMIN\\Documents\\LENDING\\lis-reprint-receipt\\lisreprintreceipt\\windowforms\\capaymentstransactionwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -38,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -50,7 +54,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
+              "Title": "MainWindow.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\LENDING\\lis-reprint-receipt\\LISReprintReceipt\\MainWindow.cs",
+              "RelativeDocumentMoniker": "LISReprintReceipt\\MainWindow.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\LENDING\\lis-reprint-receipt\\LISReprintReceipt\\MainWindow.cs [Design]",
+              "RelativeToolTip": "LISReprintReceipt\\MainWindow.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T19:44:27.43Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Client.Designer.cs",
               "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\LENDING\\lis-reprint-receipt\\LISReprintReceipt\\WindowForms\\Client.Designer.cs",
               "RelativeDocumentMoniker": "LISReprintReceipt\\WindowForms\\Client.Designer.cs",
@@ -75,7 +91,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "CAPaymentsTransactionWindow.cs",
               "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\LENDING\\lis-reprint-receipt\\LISReprintReceipt\\WindowForms\\CAPaymentsTransactionWindow.cs",
               "RelativeDocumentMoniker": "LISReprintReceipt\\WindowForms\\CAPaymentsTransactionWindow.cs",
@@ -87,7 +103,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "CAPaymentsTransactionWindow.cs [Design]",
               "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\LENDING\\lis-reprint-receipt\\LISReprintReceipt\\WindowForms\\CAPaymentsTransactionWindow.cs",
               "RelativeDocumentMoniker": "LISReprintReceipt\\WindowForms\\CAPaymentsTransactionWindow.cs",
@@ -98,7 +114,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "CAPaymentsTransactionWindow.Designer.cs",
               "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\LENDING\\lis-reprint-receipt\\LISReprintReceipt\\WindowForms\\CAPaymentsTransactionWindow.Designer.cs",
               "RelativeDocumentMoniker": "LISReprintReceipt\\WindowForms\\CAPaymentsTransactionWindow.Designer.cs",
@@ -110,7 +126,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "CashAdvancedPaymentTransactionsWindow.cs",
               "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\LENDING\\lis-reprint-receipt\\LISReprintReceipt\\WindowForms\\CashAdvancedPaymentTransactionsWindow.cs",
               "RelativeDocumentMoniker": "LISReprintReceipt\\WindowForms\\CashAdvancedPaymentTransactionsWindow.cs",
@@ -122,13 +138,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Client.cs",
               "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\LENDING\\lis-reprint-receipt\\LISReprintReceipt\\WindowForms\\Client.cs",
               "RelativeDocumentMoniker": "LISReprintReceipt\\WindowForms\\Client.cs",
               "ToolTip": "C:\\Users\\ADMIN\\Documents\\LENDING\\lis-reprint-receipt\\LISReprintReceipt\\WindowForms\\Client.cs",
               "RelativeToolTip": "LISReprintReceipt\\WindowForms\\Client.cs",
-              "ViewState": "AQIAAB0EAAAAAAAAAADwv7gEAAAAAAAA",
+              "ViewState": "AQIAAAMEAAAAAAAAAADwvxUEAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-29T07:26:08.708Z",
               "EditorCaption": ""

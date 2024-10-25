@@ -199,6 +199,7 @@
             this.othersToolStripMenuItem1.Name = "othersToolStripMenuItem1";
             this.othersToolStripMenuItem1.Size = new System.Drawing.Size(218, 22);
             this.othersToolStripMenuItem1.Text = "Others";
+            this.othersToolStripMenuItem1.Visible = false;
             this.othersToolStripMenuItem1.Click += new System.EventHandler(this.othersToolStripMenuItem1_Click);
             // 
             // cashAdvancedPaymentToolStripMenuItem
@@ -206,6 +207,7 @@
             this.cashAdvancedPaymentToolStripMenuItem.Name = "cashAdvancedPaymentToolStripMenuItem";
             this.cashAdvancedPaymentToolStripMenuItem.Size = new System.Drawing.Size(218, 22);
             this.cashAdvancedPaymentToolStripMenuItem.Text = "Cash Advanced Payment";
+            this.cashAdvancedPaymentToolStripMenuItem.Visible = false;
             this.cashAdvancedPaymentToolStripMenuItem.Click += new System.EventHandler(this.cashAdvancedPaymentToolStripMenuItem_Click);
             // 
             // loansToolStripMenuItem
@@ -213,6 +215,7 @@
             this.loansToolStripMenuItem.Name = "loansToolStripMenuItem";
             this.loansToolStripMenuItem.Size = new System.Drawing.Size(218, 22);
             this.loansToolStripMenuItem.Text = "Loans";
+            this.loansToolStripMenuItem.Visible = false;
             this.loansToolStripMenuItem.Click += new System.EventHandler(this.loansToolStripMenuItem_Click);
             // 
             // MainWindow
